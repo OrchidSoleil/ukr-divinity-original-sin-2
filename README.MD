@@ -10,7 +10,7 @@
 
 # Завантажити українізатор
 
-1-07-2025 - [divinity-os2-ukr-1.01.zip](українізатор/divinity-os2-ukr-1.01.zip) Перша перекладена локація - корабель Merryweather
+1-07-2025 - [divinity-os2-ukr-1.01.zip](https://github.com/OrchidSoleil/ukr-divinity-original-sin-2/releases/download/divinity-os2-ukr-1.01/divinity-os2-ukr-1.01.zip) Перша перекладена локація - корабель Merryweather
 
 ## Поступ
 Наразі перекладено 52 тисячі слів, що в даному випадку небагато.

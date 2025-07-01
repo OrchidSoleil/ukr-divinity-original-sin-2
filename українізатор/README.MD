@@ -21,7 +21,7 @@
        - **Для Steam**
        - ..\SteamLibrary\steamapps\common\Divinity Original Sin 2\DefEd\Data\Localization
    - Тут знайдіть файл language.lsx і перейменуйте на language_backup.lsx
-3. Завантажте файл [divinity-os2-ukr-1.01.zip](українізатор/divinity-os2-ukr-1.01.zip) 
+3. Завантажте файл [divinity-os2-ukr-1.01.zip](https://github.com/OrchidSoleil/ukr-divinity-original-sin-2/releases/download/divinity-os2-ukr-1.01/divinity-os2-ukr-1.01.zip) 
    - Розпакуйте його з заміною у теку з локалізаціями гри.
      - Якщо питатиме, чи замінювати файли - погоджуйтесь.  
 4. Все! Можна запускати гру і насолоджуватись першою локацією.
